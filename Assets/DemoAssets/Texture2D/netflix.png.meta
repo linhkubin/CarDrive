@@ -1,0 +1,230 @@
+fileFormatVersion: 2
+guid: a1bd5c3269854c746971c01d6a396de9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: netflix
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 257
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: netflix
+      rect:
+        serializedVersion: 2
+        x: 1.0761205
+        y: 1.026751
+        width: 254.84775
+        height: 254.89713
+      alignment: 9
+      pivot: {x: 0.50000006, y: 0.50009686}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -122.499985, y: -118.4753}
+        - {x: -127.499985, y: -110.47531}
+        - {x: -127.499985, y: 106.5247}
+        - {x: -126.499985, y: 109.52469}
+        - {x: -123.499985, y: 116.52469}
+        - {x: -116.499985, y: 122.52469}
+        - {x: -113.499985, y: 124.52469}
+        - {x: -108.499985, y: 126.52469}
+        - {x: -103.499985, y: 127.52469}
+        - {x: 102.500015, y: 127.52469}
+        - {x: 107.50002, y: 126.52469}
+        - {x: 110.500015, y: 125.52469}
+        - {x: 115.500015, y: 122.52469}
+        - {x: 122.500015, y: 115.52469}
+        - {x: 124.500015, y: 112.52469}
+        - {x: 126.500015, y: 107.5247}
+        - {x: 127.500015, y: 101.52469}
+        - {x: 127.500015, y: -102.47531}
+        - {x: 126.500015, y: -108.47531}
+        - {x: 123.500015, y: -115.47531}
+        - {x: 117.50001, y: -123.47531}
+        - {x: 109.500015, y: -127.47531}
+        - {x: -107.49999, y: -127.47531}
+        - {x: -118.49998, y: -122.47531}
+      physicsShape:
+      - - {x: -113.499985, y: 126.52469}
+        - {x: -119.49998, y: 123.52469}
+        - {x: -127.499985, y: 108.52468}
+        - {x: -127.499985, y: -104.4753}
+        - {x: -125.499985, y: -116.47531}
+        - {x: -115.499985, y: -127.47531}
+        - {x: 120.50001, y: -127.47531}
+        - {x: 126.500015, y: -112.47531}
+        - {x: 126.500015, y: 113.52469}
+        - {x: 112.500015, y: 126.52469}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec0c480b5224dde81c572fb4e29e41a
+      internalID: 21300000
+      vertices:
+      - {x: 255, y: 236}
+      - {x: 256, y: 26}
+      - {x: 256, y: 230}
+      - {x: 255, y: 20}
+      - {x: 253, y: 241}
+      - {x: 252, y: 13}
+      - {x: 251, y: 244}
+      - {x: 246, y: 5}
+      - {x: 244, y: 251}
+      - {x: 239, y: 254}
+      - {x: 238, y: 1}
+      - {x: 236, y: 255}
+      - {x: 231, y: 256}
+      - {x: 25, y: 256}
+      - {x: 20.999992, y: 1}
+      - {x: 20, y: 255}
+      - {x: 15, y: 253}
+      - {x: 12, y: 251}
+      - {x: 10.000008, y: 6}
+      - {x: 6, y: 10.000008}
+      - {x: 5, y: 245}
+      - {x: 2, y: 238}
+      - {x: 1, y: 235}
+      - {x: 1, y: 18}
+      indices: 1700000016000000130000001500000013000000160000001400000013000000150000001100000013000000140000001200000013000000110000000e0000001200000011000000100000000e000000110000000f0000000e000000100000000d0000000e0000000f0000000a0000000e0000000d0000000c0000000a0000000d0000000b0000000a0000000c000000090000000a0000000b000000070000000a00000009000000080000000700000009000000060000000700000008000000050000000700000006000000040000000500000006000000030000000500000004000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      netflix: 21300000
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

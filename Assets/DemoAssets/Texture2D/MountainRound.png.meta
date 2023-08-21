@@ -1,0 +1,373 @@
+fileFormatVersion: 2
+guid: c56ccf85074108a4b887a1ab1a207865
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: MountainRound_1
+  - first:
+      213: 21300002
+    second: MountainRound_18
+  - first:
+      213: 21300004
+    second: MountainRound_19
+  - first:
+      213: 21300006
+    second: MountainRound_21
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 1024
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 16
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MountainRound_1
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 397
+        width: 150
+        height: 110
+      alignment: 9
+      pivot: {x: 0.49833333, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 74.75, y: -55}
+        - {x: -75.25, y: -55}
+        - {x: -75.25, y: -37}
+        - {x: -32.25, y: 55}
+        - {x: 19.75, y: 55}
+        - {x: 74.75, y: -33}
+      physicsShape:
+      - - {x: 4.7499995, y: 55}
+        - {x: -21.25, y: 55}
+        - {x: -33.25, y: 41}
+        - {x: -56.25, y: -3}
+        - {x: -75.25, y: -48.999996}
+        - {x: -75.25, y: -55}
+        - {x: 74.75, y: -55}
+        - {x: 74.75, y: -52.999996}
+        - {x: 58.749996, y: -14}
+        - {x: 26.749998, y: 37}
+        - {x: 15.75, y: 47}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7bd5449d16048f29b6818cc0e8f5300
+      internalID: 21300000
+      vertices:
+      - {x: 94.75, y: 110}
+      - {x: 149.75, y: 0}
+      - {x: 149.75, y: 22}
+      - {x: 42.75, y: 110}
+      - {x: -0.25, y: 18}
+      - {x: -0.25, y: 0}
+      indices: 050000000400000001000000030000000100000004000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MountainRound_18
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 0
+        width: 274
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 137, y: -47.5}
+        - {x: -137, y: -47.5}
+        - {x: -137, y: 3.5}
+        - {x: -80, y: 47.5}
+        - {x: 69, y: 47.5}
+        - {x: 119.00001, y: 4.5}
+        - {x: 137, y: -36.5}
+      physicsShape:
+      - - {x: 111, y: -0.5}
+        - {x: 84, y: 27.5}
+        - {x: 72.99999, y: 34.5}
+        - {x: 50, y: 45.5}
+        - {x: 45, y: 47.5}
+        - {x: 6, y: 47.5}
+        - {x: -3, y: 45.5}
+        - {x: -18, y: 37.5}
+        - {x: -29, y: 23.5}
+        - {x: -35, y: 30.5}
+        - {x: -57, y: 35.5}
+        - {x: -74, y: 22.5}
+        - {x: -98.99999, y: 22.5}
+        - {x: -112, y: 12.5}
+        - {x: -137, y: -42.5}
+        - {x: -137, y: -47.5}
+        - {x: 137, y: -47.5}
+        - {x: 137, y: -41.5}
+        - {x: 130, y: -27.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bca3c85debb47f99ed9e97c4bf91fe5
+      internalID: 21300002
+      vertices:
+      - {x: 256, y: 52}
+      - {x: 274, y: 0}
+      - {x: 274, y: 11}
+      - {x: 206, y: 95}
+      - {x: 57, y: 95}
+      - {x: 0, y: 51}
+      - {x: 0, y: 0}
+      indices: 060000000500000001000000040000000100000005000000030000000100000004000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MountainRound_19
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 0
+        width: 239
+        height: 104
+      alignment: 9
+      pivot: {x: 0.49895397, y: 0.49759614}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 119.25001, y: -52.25}
+        - {x: -119.75001, y: -52.25}
+        - {x: -119.75001, y: -40.25}
+        - {x: -74.75, y: 51.75}
+        - {x: -7.7500005, y: 51.75}
+        - {x: 51.25, y: 23.75}
+        - {x: 56.25, y: 29.750002}
+        - {x: 74.25, y: 38.75}
+        - {x: 104.24999, y: 6.75}
+        - {x: 119.25001, y: -44.25}
+      physicsShape:
+      - - {x: 84.25, y: 22.749998}
+        - {x: 75.25, y: 36.75}
+        - {x: 49.249996, y: 28.75}
+        - {x: 35.25, y: -2.25}
+        - {x: -28.75, y: 51.75}
+        - {x: -57.75, y: 51.75}
+        - {x: -83.75, y: 32.75}
+        - {x: -99.75, y: -5.2499995}
+        - {x: -111.75, y: -30.249998}
+        - {x: -119.74999, y: -47.25}
+        - {x: -119.74999, y: -52.25}
+        - {x: 119.24999, y: -52.25}
+        - {x: 119.24999, y: -49.249996}
+        - {x: 117.24999, y: -44.25}
+        - {x: 103.25, y: -14.25}
+        - {x: 93.25, y: 6.75}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7de20379e9e42c6b1ec1ee4db01a918
+      internalID: 21300004
+      vertices:
+      - {x: 223.75, y: 58.75}
+      - {x: 238.75, y: -0.25}
+      - {x: 238.75, y: 7.75}
+      - {x: 193.75, y: 90.75}
+      - {x: 175.75, y: 81.75}
+      - {x: 170.75, y: 75.75}
+      - {x: 111.75, y: 103.75}
+      - {x: 44.75, y: 103.75}
+      - {x: -0.25000763, y: 11.75}
+      - {x: -0.25000763, y: -0.25}
+      indices: 090000000800000001000000070000000100000008000000060000000100000007000000050000000100000006000000040000000100000005000000030000000100000004000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MountainRound_21
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 0
+        width: 229
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49791667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 114.5, y: -60.250004}
+        - {x: -114.5, y: -60.250004}
+        - {x: -114.5, y: -26.25}
+        - {x: -101.5, y: 39.75}
+        - {x: -34.5, y: 59.750004}
+        - {x: 70.5, y: 59.750004}
+        - {x: 114.5, y: -49.25}
+      physicsShape:
+      - - {x: 73.49999, y: -20.249998}
+        - {x: 58.499996, y: 5.75}
+        - {x: 48.5, y: 43.75}
+        - {x: 40.5, y: 54.75}
+        - {x: 36.499996, y: 56.75}
+        - {x: 29.499998, y: 59.749996}
+        - {x: -4.5, y: 59.749996}
+        - {x: -14.5, y: 51.75}
+        - {x: -22.5, y: 37.75}
+        - {x: -42.5, y: 23.75}
+        - {x: -69.5, y: 16.75}
+        - {x: -76.5, y: 12.75}
+        - {x: -97.5, y: -11.25}
+        - {x: -105.49999, y: -30.249998}
+        - {x: -114.5, y: -54.249996}
+        - {x: -114.5, y: -60.249996}
+        - {x: 114.5, y: -60.249996}
+        - {x: 114.5, y: -57.25}
+        - {x: 102.5, y: -52.25}
+        - {x: 95.5, y: -49.249996}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f22e3f2de34e33bcbf55c41a18d74c
+      internalID: 21300006
+      vertices:
+      - {x: 185, y: 119.75}
+      - {x: 229, y: -0.2500038}
+      - {x: 229, y: 10.75}
+      - {x: 80, y: 119.75}
+      - {x: 13, y: 99.75}
+      - {x: 0, y: 33.75}
+      - {x: 0, y: -0.2500038}
+      indices: 060000000500000001000000040000000100000005000000030000000100000004000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MountainRound_1: 21300000
+      MountainRound_18: 21300002
+      MountainRound_19: 21300004
+      MountainRound_21: 21300006
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

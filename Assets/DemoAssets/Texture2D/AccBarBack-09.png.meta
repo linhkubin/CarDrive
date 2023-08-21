@@ -1,0 +1,234 @@
+fileFormatVersion: 2
+guid: 3a4fd474326df4240ac54343dddc3f25
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: AccBarBack-09
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 215
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AccBarBack-09
+      rect:
+        serializedVersion: 2
+        x: 2.0761204
+        y: 12.026751
+        width: 149.92387
+        height: 202.97325
+      alignment: 9
+      pivot: {x: 0.49307612, y: 0.47037357}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62.038055, y: -101.513374}
+        - {x: -75.038055, y: -86.513374}
+        - {x: -75.038055, y: -49.513374}
+        - {x: -33.038055, y: 80.486626}
+        - {x: -24.038055, y: 101.48663}
+        - {x: 29.961945, y: 101.48663}
+        - {x: 38.961945, y: 81.486626}
+        - {x: 74.961945, y: -15.513374}
+        - {x: 74.961945, y: -101.513374}
+      physicsShape:
+      - - {x: 9.961945, y: -92.513374}
+        - {x: 10.961945, y: -93.513374}
+        - {x: 33.961945, y: -96.513374}
+        - {x: 45.961945, y: -96.513374}
+        - {x: 52.96194, y: -93.513374}
+        - {x: 58.96194, y: -87.513374}
+        - {x: 61.961945, y: -81.513374}
+        - {x: 61.961945, y: -67.513374}
+        - {x: 53.961945, y: -43.513374}
+        - {x: 51.96194, y: -35.513374}
+        - {x: 49.961945, y: -29.513374}
+        - {x: 46.961945, y: -21.513374}
+        - {x: 44.96194, y: -13.513374}
+        - {x: 42.961945, y: -7.5133743}
+        - {x: 38.96194, y: 3.4866257}
+        - {x: 36.961945, y: 11.486626}
+        - {x: 34.961945, y: 17.486626}
+        - {x: 30.961945, y: 28.486626}
+        - {x: 28.961943, y: 36.486626}
+        - {x: 26.961945, y: 42.486626}
+        - {x: 23.961945, y: 50.486626}
+        - {x: 17.961945, y: 69.486626}
+        - {x: 15.961945, y: 74.486626}
+        - {x: 8.961944, y: 81.486626}
+        - {x: 3.961944, y: 83.486626}
+        - {x: -0.03805542, y: 84.486626}
+        - {x: -8.038055, y: 84.486626}
+        - {x: -14.038055, y: 82.486626}
+        - {x: -17.038055, y: 80.486626}
+        - {x: -23.038055, y: 75.486626}
+        - {x: -26.038055, y: 68.486626}
+        - {x: -42.038055, y: 18.486624}
+        - {x: -49.038055, y: -3.5133746}
+        - {x: -57.038055, y: -28.513374}
+        - {x: -64.038055, y: -50.513374}
+        - {x: -70.038055, y: -69.513374}
+        - {x: -70.038055, y: -83.513374}
+        - {x: -64.038055, y: -91.51337}
+        - {x: -59.038055, y: -94.513374}
+        - {x: -54.03805, y: -96.513374}
+        - {x: -41.03805, y: -96.513374}
+        - {x: -28.038054, y: -94.513374}
+        - {x: -19.038055, y: -93.513374}
+        - {x: -18.038055, y: -92.513374}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e359d9f0754b7eb85447c1732d8152
+      internalID: 21300000
+      vertices:
+      - {x: 116, y: 195}
+      - {x: 152, y: 12}
+      - {x: 152, y: 98}
+      - {x: 107, y: 215}
+      - {x: 53, y: 215}
+      - {x: 44, y: 194}
+      - {x: 15, y: 12}
+      - {x: 2, y: 64}
+      - {x: 2, y: 27}
+      indices: 080000000700000006000000050000000600000007000000010000000600000005000000040000000100000005000000030000000100000004000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      AccBarBack-09: 21300000
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

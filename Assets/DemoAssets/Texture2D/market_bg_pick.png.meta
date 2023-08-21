@@ -1,0 +1,206 @@
+fileFormatVersion: 2
+guid: 4253c76e0583e6d48a2e963fb4b550d9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: market_bg_pick
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 47
+  maxTextureSize: 204
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: market_bg_pick
+      rect:
+        serializedVersion: 2
+        x: 0.076120496
+        y: 0.076120496
+        width: 203.84775
+        height: 203.84775
+      alignment: 9
+      pivot: {x: 0.50000006, y: 0.50000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -90.999985, y: -93.999985}
+        - {x: -101.999985, y: -79.999985}
+        - {x: -101.999985, y: 80.000015}
+        - {x: -86.999985, y: 99.000015}
+        - {x: -78.999985, y: 102.000015}
+        - {x: 80.000015, y: 102.000015}
+        - {x: 91.000015, y: 94.000015}
+        - {x: 102.000015, y: 80.000015}
+        - {x: 102.000015, y: -79.999985}
+        - {x: 94.000015, y: -90.999985}
+        - {x: 80.000015, y: -101.999985}
+        - {x: -79.999985, y: -101.999985}
+      physicsShape:
+      - - {x: 102.000015, y: 80.00001}
+        - {x: 84.000015, y: 102.000015}
+        - {x: -80.999985, y: 102.000015}
+        - {x: -101.999985, y: 81.000015}
+        - {x: -101.999985, y: -79.99998}
+        - {x: -86.999985, y: -97.99998}
+        - {x: -79.99998, y: -100.999985}
+        - {x: -70.999985, y: -101.999985}
+        - {x: 81.000015, y: -101.999985}
+        - {x: 102.000015, y: -80.999985}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a885def4cc4e47dca350b404d90a9c5b
+      internalID: 21300000
+      vertices:
+      - {x: 204, y: 182}
+      - {x: 196, y: 11}
+      - {x: 204, y: 22}
+      - {x: 193, y: 196}
+      - {x: 182, y: 204}
+      - {x: 182, y: 0}
+      - {x: 23, y: 204}
+      - {x: 22, y: 0}
+      - {x: 15, y: 201}
+      - {x: 11, y: 8}
+      - {x: 0, y: 182}
+      - {x: 0, y: 22}
+      indices: 0b0000000a0000000900000008000000090000000a000000070000000900000008000000060000000700000008000000050000000700000006000000040000000500000006000000010000000500000004000000030000000100000004000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      market_bg_pick: 21300000
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
