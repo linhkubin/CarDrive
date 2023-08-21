@@ -1,0 +1,234 @@
+fileFormatVersion: 2
+guid: 9b8603ca27a48da4286429a38acd722a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: youtube
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 257
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: youtube
+      rect:
+        serializedVersion: 2
+        x: 1.0761205
+        y: 1.026751
+        width: 254.89713
+        height: 254.89713
+      alignment: 9
+      pivot: {x: 0.49990317, y: 0.50009686}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -126.52468, y: -108.47531}
+        - {x: -127.52468, y: -103.47531}
+        - {x: -127.52468, y: 102.52469}
+        - {x: -126.52468, y: 107.5247}
+        - {x: -125.52468, y: 110.52469}
+        - {x: -122.52468, y: 115.52469}
+        - {x: -115.52468, y: 122.52469}
+        - {x: -112.52468, y: 124.52469}
+        - {x: -107.52469, y: 126.52469}
+        - {x: -102.52468, y: 127.52469}
+        - {x: 103.47532, y: 127.52469}
+        - {x: 108.47532, y: 126.52469}
+        - {x: 117.47531, y: 122.52469}
+        - {x: 122.47532, y: 116.52469}
+        - {x: 124.47532, y: 114.52469}
+        - {x: 126.47532, y: 109.52469}
+        - {x: 127.47532, y: 106.5247}
+        - {x: 127.47532, y: -107.47532}
+        - {x: 122.47532, y: -118.4753}
+        - {x: 117.47531, y: -122.47531}
+        - {x: 115.47532, y: -124.47531}
+        - {x: 110.47532, y: -126.47531}
+        - {x: 107.47533, y: -127.47531}
+        - {x: -106.52469, y: -127.47531}
+        - {x: -117.52467, y: -122.47531}
+        - {x: -122.52468, y: -117.4753}
+      physicsShape:
+      - - {x: 124.47532, y: 117.52468}
+        - {x: 111.47532, y: 126.52469}
+        - {x: -111.52468, y: 126.52469}
+        - {x: -125.52468, y: 114.52469}
+        - {x: -126.52468, y: 104.52468}
+        - {x: -126.52468, y: -114.47531}
+        - {x: -115.52468, y: -127.47531}
+        - {x: 117.47531, y: -127.47531}
+        - {x: 127.47532, y: -110.47531}
+        - {x: 127.47532, y: 102.52469}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51833f4941dd489ca18ef1b77bc93247
+      internalID: 21300000
+      vertices:
+      - {x: 255, y: 238}
+      - {x: 256, y: 20.999992}
+      - {x: 256, y: 235}
+      - {x: 253, y: 243}
+      - {x: 251, y: 245}
+      - {x: 251, y: 10.000008}
+      - {x: 246, y: 251}
+      - {x: 246, y: 6}
+      - {x: 244, y: 4}
+      - {x: 239, y: 2}
+      - {x: 237, y: 255}
+      - {x: 236, y: 1}
+      - {x: 232, y: 256}
+      - {x: 26, y: 256}
+      - {x: 21.999992, y: 1}
+      - {x: 20.999992, y: 255}
+      - {x: 16, y: 253}
+      - {x: 13, y: 251}
+      - {x: 11.000008, y: 6}
+      - {x: 6, y: 244}
+      - {x: 6, y: 11.000008}
+      - {x: 3, y: 239}
+      - {x: 2, y: 236}
+      - {x: 2, y: 20}
+      - {x: 1, y: 231}
+      - {x: 1, y: 25}
+      indices: 1900000018000000170000001600000017000000180000001400000017000000160000001500000014000000160000001300000014000000150000001200000014000000130000001100000012000000130000000e0000001200000011000000100000000e000000110000000f0000000e000000100000000d0000000e0000000f0000000b0000000e0000000d0000000c0000000b0000000d0000000a0000000b0000000c000000090000000b0000000a00000006000000090000000a000000080000000900000006000000070000000800000006000000050000000700000006000000040000000500000006000000010000000500000004000000030000000100000004000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      youtube: 21300000
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

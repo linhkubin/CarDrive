@@ -1,0 +1,241 @@
+fileFormatVersion: 2
+guid: 96c0f1704df5a904d8fa8a85db3a18b7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Horse
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 47
+  maxTextureSize: 120
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Horse
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.026750982
+        width: 120
+        height: 114.89713
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52197343}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.000001, y: -33.475315}
+        - {x: 13, y: -41.475315}
+        - {x: 15.000001, y: -38.475315}
+        - {x: 24, y: -30.475315}
+      physicsShape:
+      - - {x: 52, y: 0.5246849}
+        - {x: 59.999996, y: 13.524685}
+        - {x: 59.999996, y: 37.524685}
+        - {x: 38, y: 53.524685}
+        - {x: 35, y: 53.524685}
+        - {x: 34, y: 51.52468}
+        - {x: 33, y: 46.524685}
+        - {x: 45.999996, y: 24.524685}
+        - {x: -8, y: 24.524685}
+        - {x: -8, y: 28.524685}
+        - {x: -26, y: 40.524685}
+        - {x: -42.999996, y: 45.52468}
+        - {x: -45.999996, y: 43.524685}
+        - {x: -59.999996, y: 23.524685}
+        - {x: -59.999996, y: 13.524685}
+        - {x: -52.999996, y: 10.524685}
+        - {x: -41, y: 16.524685}
+        - {x: -28, y: -7.475314}
+        - {x: -33, y: -17.475313}
+        - {x: -39, y: -33.475315}
+        - {x: -33, y: -45.475315}
+        - {x: -31, y: -44.475315}
+        - {x: -24, y: -40.47531}
+        - {x: -2, y: -40.47531}
+        - {x: 0, y: -38.475315}
+        - {x: 0, y: -35.475315}
+        - {x: -2, y: -30.475315}
+        - {x: -6, y: -30.475315}
+        - {x: -13, y: -22.475315}
+        - {x: 0, y: -20.475313}
+        - {x: 16, y: -13.475315}
+        - {x: 2, y: -28.475315}
+        - {x: -1, y: -43.47531}
+        - {x: 2, y: -44.475315}
+        - {x: 4.9999995, y: -44.475315}
+        - {x: 9.999999, y: -41.475315}
+        - {x: 11, y: -54.475315}
+        - {x: 14, y: -55.475315}
+        - {x: 19, y: -55.475315}
+        - {x: 21, y: -52.475315}
+        - {x: 39, y: -32.475315}
+        - {x: 39.999996, y: -17.475313}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c637553c9e4d2a90fa95d0c7ff6a6b
+      internalID: 21300000
+      vertices:
+      - {x: 94, y: 97}
+      - {x: 75, y: 24}
+      - {x: 84, y: 27}
+      - {x: 73, y: 15}
+      - {x: 73, y: 16}
+      - {x: 60, y: 5.999996}
+      - {x: 37, y: -0.0000038146973}
+      - {x: 25, y: -0.0000038146973}
+      - {x: 15, y: 107}
+      - {x: -0.0000038146973, y: 84}
+      - {x: -0.0000038146973, y: 63}
+      - {x: 97, y: 115}
+      - {x: 91, y: 112}
+      - {x: 120, y: 101}
+      - {x: 106, y: 20}
+      - {x: 120, y: 69}
+      - {x: 104, y: 115}
+      - {x: 83, y: -0.0000038146973}
+      - {x: 75, y: 19}
+      - {x: 73, y: 15}
+      - {x: 70, y: 10}
+      - {x: 70, y: -0.0000038146973}
+      - {x: 68, y: 1.0000038}
+      indices: 1300000003000000040000001600000014000000150000001100000015000000140000000300000011000000140000001300000011000000030000000400000011000000130000001200000011000000040000000200000011000000120000000e0000001100000002000000000000000e000000020000000b0000000e00000000000000100000000e0000000b0000000d0000000e000000100000000f0000000e0000000d000000000000000c0000000b0000000a0000000900000007000000080000000700000009000000000000000700000008000000060000000700000000000000050000000600000000000000010000000500000000000000030000000500000001000000040000000300000001000000020000000100000000000000
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Horse: 21300000
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

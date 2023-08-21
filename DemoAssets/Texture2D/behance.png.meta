@@ -1,0 +1,231 @@
+fileFormatVersion: 2
+guid: 021c8d8bf9e92e4428b5d77c75446aa5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: behance
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 257
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: behance
+      rect:
+        serializedVersion: 2
+        x: 1.0761205
+        y: 1.0761205
+        width: 254.89713
+        height: 254.84775
+      alignment: 9
+      pivot: {x: 0.49990317, y: 0.50000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -121.52468, y: -118.49998}
+        - {x: -126.52468, y: -110.499985}
+        - {x: -126.52468, y: -107.49999}
+        - {x: -127.52468, y: -102.499985}
+        - {x: -127.52468, y: 102.500015}
+        - {x: -126.52468, y: 107.50002}
+        - {x: -125.52468, y: 110.500015}
+        - {x: -122.52468, y: 115.500015}
+        - {x: -115.52468, y: 123.500015}
+        - {x: -108.52468, y: 126.500015}
+        - {x: -103.52468, y: 127.500015}
+        - {x: 104.47531, y: 127.500015}
+        - {x: 111.47532, y: 125.500015}
+        - {x: 116.47532, y: 122.500015}
+        - {x: 123.47532, y: 116.500015}
+        - {x: 127.47532, y: 107.50002}
+        - {x: 127.47532, y: -107.49999}
+        - {x: 126.47532, y: -110.499985}
+        - {x: 124.47532, y: -115.499985}
+        - {x: 115.47532, y: -124.499985}
+        - {x: 110.47532, y: -126.499985}
+        - {x: 106.47533, y: -127.499985}
+        - {x: -106.52469, y: -127.499985}
+        - {x: -109.52468, y: -126.499985}
+        - {x: -114.52468, y: -124.499985}
+        - {x: -117.52467, y: -121.499985}
+      physicsShape:
+      - - {x: -115.52468, y: 126.500015}
+        - {x: -126.52468, y: 113.500015}
+        - {x: -126.52468, y: -126.499985}
+        - {x: 122.47532, y: -126.499985}
+        - {x: 127.47532, y: -114.499985}
+        - {x: 127.47532, y: 110.500015}
+        - {x: 119.47531, y: 126.500015}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2005a362e2c54093955484d944b0ea75
+      internalID: 21300000
+      vertices:
+      - {x: 1, y: 231}
+      - {x: 2, y: 20.999992}
+      - {x: 2, y: 236}
+      - {x: 1, y: 26}
+      - {x: 256, y: 236}
+      - {x: 255, y: 18}
+      - {x: 256, y: 20.999992}
+      - {x: 253, y: 13}
+      - {x: 252, y: 245}
+      - {x: 245, y: 251}
+      - {x: 244, y: 4}
+      - {x: 240, y: 254}
+      - {x: 239, y: 2}
+      - {x: 235, y: 1}
+      - {x: 233, y: 256}
+      - {x: 25, y: 256}
+      - {x: 21.999992, y: 1}
+      - {x: 20, y: 255}
+      - {x: 19, y: 2}
+      - {x: 14, y: 4}
+      - {x: 13, y: 252}
+      - {x: 11.000008, y: 7}
+      - {x: 7, y: 10.000008}
+      - {x: 6, y: 244}
+      - {x: 3, y: 239}
+      - {x: 2, y: 18}
+      indices: 1900000001000000160000000200000016000000010000001800000016000000020000001700000016000000180000001400000016000000170000001500000016000000140000001300000015000000140000001100000013000000140000001200000013000000110000001000000012000000110000000f00000010000000110000000d000000100000000f0000000e0000000d0000000f0000000b0000000d0000000e0000000c0000000d0000000b0000000a0000000c0000000b000000090000000a0000000b000000070000000a00000009000000080000000700000009000000040000000700000008000000050000000700000004000000060000000500000004000000030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      behance: 21300000
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
