@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de541a3029b66394ea03e3e473415b7a, type: 3}
+  m_Name: ImageTrafficLight
+  m_EditorClassIdentifier: 
+  type: 2
+  spriteImage:
+  - {fileID: 21300000, guid: 8980aef5f12003542a71faabb0f5c8a3, type: 3}
+  - {fileID: 21300000, guid: 1e161f06b0a24834799a629f9754fe3a, type: 3}
+  - {fileID: 21300000, guid: 6e5df7616adc6e442a6b0621de1995cc, type: 3}
+  - {fileID: 21300000, guid: 04ab4ce35026fa846ab80497d9e152d9, type: 3}
+  - {fileID: 21300000, guid: ff3f9f3bbd354bf44b0d12ad0749e331, type: 3}
+  - {fileID: 21300000, guid: 70299045762af6942852f01c83c2d5d2, type: 3}
+  - {fileID: 21300000, guid: 8541d33986e893245adf7d9c07cb80da, type: 3}
