@@ -8,23 +8,24 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: SpaceRunner
-  m_Shader: {fileID: 4800000, guid: 0000000deadbeef15deadf00d0000000, type: 3}
+  m_Shader: {fileID: 45, guid: 0000000000000000f000000000000000, type: 0}
   m_ValidKeywords:
-  - _ENABLECLOUDSROTATION_ON
-  - _ENABLESTARSTWINKLING_ON
-  - _ENABLESTARS_ON
-  - _ENABLESUN_ON
+  - _EMISSION
   m_InvalidKeywords:
   - _BACKGROUNDMODE_COLORS
   - _BUILTINFOG_ON
   - _CLOUDS_ON
+  - _ENABLECLOUDSROTATION_ON
   - _ENABLEPATTERN_ON
   - _ENABLESKYPATTERNOVERLAY_ON
   - _ENABLESTARSROTATION_ON
   - _ENABLESTARSSUNMASK_ON
+  - _ENABLESTARSTWINKLING_ON
+  - _ENABLESTARS_ON
   - _ENABLESUNMASK_ON
   - _ENABLESUNMOONMASK_ON
   - _ENABLESUNMOON_ON
+  - _ENABLESUN_ON
   - _ENABLETWINKLING_ON
   - _PATTERNOVERLAY_ON
   - _STARS_ON
@@ -42,16 +43,52 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _CloudsCubemap:
         m_Texture: {fileID: 8900000, guid: e0fa9a20a96868e4f8898587bca252c8, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MoonTexture:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _PatternCubemap:
         m_Texture: {fileID: 8900000, guid: 4ca608ce16f648e4d97eb87e354d55d1, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SpecGlossMap:
+        m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _StarsCubemap:
@@ -66,7 +103,7 @@ Material:
         m_Texture: {fileID: 2800000, guid: 5e6114c3052869145aaff2df612fc92b, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
-    m_Ints: {}
+    m_Ints: []
     m_Floats:
     - _BackgroundExposure: 1
     - _BackgroundMode: 0
@@ -207,6 +244,7 @@ Material:
     - _Sky: {r: 0.6691177, g: 0.29519898, b: 0.29519898, a: 0}
     - _SkyColor: {r: 0.02861636, g: 0, b: 0.13207549, a: 1}
     - _Skycol: {r: 0.27941146, g: 0.64219046, b: 1, a: 0}
+    - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
     - _StarOffset: {r: 0, g: 0, b: 0, a: 0}
     - _SunColor: {r: 0.9976808, g: 1, b: 0.740566, a: 1}
     - _Tint: {r: 1, g: 1, b: 1, a: 0}

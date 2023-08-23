@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5328ef2705cb5dd448ad80f74e15044c, type: 3}
+  m_Name: AppTextTure
+  m_EditorClassIdentifier: 
+  AppSprites:
+  - {fileID: 21300000, guid: 8ff5367f4b7484a4bbfe32f257e19692, type: 3}
+  - {fileID: 21300000, guid: 4ce00e82ab45b5a4c9995e5265cb7ae3, type: 3}
+  - {fileID: 21300000, guid: adf887a971204394ebd54a32cd4b3df4, type: 3}
+  - {fileID: 21300000, guid: f2d97b77ed67e7f4495ea726c38581d5, type: 3}
+  - {fileID: 21300000, guid: a0e9327f595071b4b802c8c8080da519, type: 3}
+  - {fileID: 21300000, guid: 4098e058ba343ec4bb9f740d18b249be, type: 3}
+  - {fileID: 21300000, guid: 3a9a8be857590bc45abb2a60335d8323, type: 3}
+  - {fileID: 21300000, guid: 70c949dfdd46d134c8a6dd643917dac6, type: 3}
+  - {fileID: 21300000, guid: 34c87696051349e48a3b829a5c74d6e1, type: 3}
+  - {fileID: 21300000, guid: feb53ff0c65a29f4d8cc2a2f8ed657b7, type: 3}
+  - {fileID: 21300000, guid: 1e927945f67d39e43adaa1e5fe2b6e8d, type: 3}
+  - {fileID: 21300000, guid: 683401a330006834a96dcb66c8ecbdd8, type: 3}
+  currentAppsIndex: 0
+  apps:
+  - sprite: {fileID: 21300000, guid: 8ff5367f4b7484a4bbfe32f257e19692, type: 3}
+    appType: 0
+  - sprite: {fileID: 21300000, guid: 4ce00e82ab45b5a4c9995e5265cb7ae3, type: 3}
+    appType: 0
+  - sprite: {fileID: 21300000, guid: adf887a971204394ebd54a32cd4b3df4, type: 3}
+    appType: 0
+  - sprite: {fileID: 21300000, guid: f2d97b77ed67e7f4495ea726c38581d5, type: 3}
+    appType: 0
+  - sprite: {fileID: 21300000, guid: a0e9327f595071b4b802c8c8080da519, type: 3}
+    appType: 2
+  - sprite: {fileID: 21300000, guid: 4098e058ba343ec4bb9f740d18b249be, type: 3}
+    appType: 2
+  - sprite: {fileID: 21300000, guid: 3a9a8be857590bc45abb2a60335d8323, type: 3}
+    appType: 2
+  - sprite: {fileID: 21300000, guid: 70c949dfdd46d134c8a6dd643917dac6, type: 3}
+    appType: 2
+  - sprite: {fileID: 21300000, guid: 34c87696051349e48a3b829a5c74d6e1, type: 3}
+    appType: 1
+  - sprite: {fileID: 21300000, guid: feb53ff0c65a29f4d8cc2a2f8ed657b7, type: 3}
+    appType: 1
+  - sprite: {fileID: 21300000, guid: 1e927945f67d39e43adaa1e5fe2b6e8d, type: 3}
+    appType: 1
+  - sprite: {fileID: 21300000, guid: 683401a330006834a96dcb66c8ecbdd8, type: 3}
+    appType: 1
