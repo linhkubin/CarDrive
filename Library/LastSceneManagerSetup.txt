@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/_Game/Dung_Scenes/Game2.unity
+- path: Assets/_Game/Dung_Scenes/Game3.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
