@@ -356,8 +356,11 @@
 -r:"Library/Bee/artifacts/1900b0aEDbg.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.UI.ref.dll"
 "Assets/_Game/Thanh/Scripts/InputMouse.cs"
+"Assets/_Game/Thanh/Scripts/SO/AppTextTureSO.cs"
+"Assets/_Game/Thanh/Scripts/SortTheApps/Thanh_Album.cs"
 "Assets/_Game/Thanh/Scripts/SortTheApps/Thanh_AlbumHolder.cs"
 "Assets/_Game/Thanh/Scripts/SortTheApps/Thanh_DraggableItem.cs"
+"Assets/_Game/Thanh/Scripts/SortTheApps/Thanh_LevelManagerGame2.cs"
 "Assets/_Game/Thanh/Scripts/Thanh_DropThing.cs"
 "Assets/_Game/Thanh/Scripts/Thanh_LevelManager.cs"
 -langversion:9.0

@@ -56,11 +56,14 @@
     <Analyzer Include="C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\_Game\Thanh\Scripts\SortTheApps\Thanh_DraggableItem.cs" />
-    <Compile Include="Assets\_Game\Thanh\Scripts\Thanh_LevelManager.cs" />
     <Compile Include="Assets\_Game\Thanh\Scripts\Thanh_DropThing.cs" />
+    <Compile Include="Assets\_Game\Thanh\Scripts\SortTheApps\Thanh_DraggableItem.cs" />
     <Compile Include="Assets\_Game\Thanh\Scripts\SortTheApps\Thanh_AlbumHolder.cs" />
+    <Compile Include="Assets\_Game\Thanh\Scripts\Thanh_LevelManager.cs" />
     <Compile Include="Assets\_Game\Thanh\Scripts\InputMouse.cs" />
+    <Compile Include="Assets\_Game\Thanh\Scripts\SortTheApps\Thanh_Album.cs" />
+    <Compile Include="Assets\_Game\Thanh\Scripts\SO\AppTextTureSO.cs" />
+    <Compile Include="Assets\_Game\Thanh\Scripts\SortTheApps\Thanh_LevelManagerGame2.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

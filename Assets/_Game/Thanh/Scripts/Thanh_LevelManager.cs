@@ -7,6 +7,9 @@ namespace ThanhDev
 {   
     public class Thanh_LevelManager : MonoBehaviour
     {
+        #region Game1
+
+        [Header("Game1")]
         [SerializeField] GameObject spawnPrefab;
 
         public int numRow;
@@ -28,6 +31,7 @@ namespace ThanhDev
             }
         }
 
+        #endregion
     }
 
 }
